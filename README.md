@@ -10,13 +10,7 @@
 - [Dataset](#dataset)
 - [Project Structure](#project-structure)
 - [Installation & Setup](#installation--setup)
-- [Usage](#usage)
-- [Modeling & Evaluation](#modeling--evaluation)
-- [Results](#results)
-- [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ---
 
