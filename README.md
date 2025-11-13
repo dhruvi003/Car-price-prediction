@@ -48,17 +48,29 @@ This project aims to build and deploy a predictive model to estimate the price o
 
 Car-price-prediction/
 │
+
 ├── data/
+
 │ └── clean_car (1).csv # Cleaned version of the raw dataset
+
 ├── notebooks/
+
 │ └── Car_price_prediction.ipynb # Exploratory Data Analysis & model building
+
 ├── models/
+
 │ └── LinearRegressionModel.pkl # Trained model serialized
+
 ├── application.py # Flask web app to serve predictions
+
 ├── static/
+
 │ └── css/ # Styling for web app
+
 ├── templates/
+
 │ └── (HTML templates) # User interface for web app
+
 ├── README.md # Project documentation
 
 
